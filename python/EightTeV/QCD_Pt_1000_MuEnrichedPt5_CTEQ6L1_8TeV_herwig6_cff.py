@@ -2,7 +2,7 @@ import FWCore.ParameterSet.Config as cms
 
 configurationMetadata = cms.untracked.PSet(
 	version = cms.untracked.string('$Revision: 1.1 $'),
-	name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_1000toInf_MuEnrichedPt5_CTEQ6L1_8TeV_herwig6_cff.py,v $'),
+	name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_1000_MuEnrichedPt5_CTEQ6L1_8TeV_herwig6_cff.py,v $'),
 	annotation = cms.untracked.string('Herwig+Jimmy generation of QCD events, MuEnrichedPt5, 8 TeV, CTEQ6L1, pthat [1000,Inf] GeV')
 )
 

@@ -29,6 +29,6 @@ ProductionFilterSequence = cms.Sequence(generator * singleTopFilter)
 
 configurationMetadata = cms.untracked.PSet(
 	version = cms.untracked.string('$Revision: 1.1 $'),
-	name = cms.untracked.string('$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/TToBLNu_t_channel_TuneZ2star_8TeV_comphep_cff.py,v $'),
+	name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/TToBLNu_tchannel_TuneZ2star_8TeV_comphep_cff.py,v $'),
 	annotation = cms.untracked.string('Comphep single top t-channel at 8TeV')
 )

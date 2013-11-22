@@ -16,7 +16,7 @@ generator = cms.EDProducer('FlatRandomEGunProducer',
 )
 
 configurationMetadata = cms.untracked.PSet(
-	version = cms.untracked.string('\$Revision$'),
-	name = cms.untracked.string('\$Source$'),
+	version = cms.untracked.string('\$Revision: 1.1 $'),
+	name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/DiPion_E_1to100_gun_cff.py,v $'),
 	annotation = cms.untracked.string('Summer2012 sample with GUN: Flat random DiPion gun, E = 1 .. 100 GeV, no tune')
 )

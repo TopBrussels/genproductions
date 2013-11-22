@@ -40,7 +40,7 @@ enuejjFilter = cms.EDFilter("LQGenFilter",
 
 configurationMetadata = cms.untracked.PSet(
         version = cms.untracked.string('$Revision: 1.1 $'),
-        name = cms.untracked.string('$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/LQToUE_ENuJJFilter_M_350_7TeV_pythia6_cff.py,v $'),
+        name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/LQToUE_ENuJJFilter_M_750_TuneZ2star_8TeV_pythia6_cff.py,v $'),
         annotation = cms.untracked.string('default documentation string for LQToUE_ENuJJFilter_M_350_7TeV_pythia6_cff.py')
 )
 

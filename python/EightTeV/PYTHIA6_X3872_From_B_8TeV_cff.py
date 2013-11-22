@@ -2,8 +2,8 @@
 import FWCore.ParameterSet.Config as cms
 
 configurationMetadata = cms.untracked.PSet(
-        version = cms.untracked.string('$Revision: 1.3 $'),
-        name = cms.untracked.string('$Source: /cvs_server/repositories/CMSSW/UserCode/AFanfani/X3872Analysis/Configuration/GenProduction/python/EightTeV/PYTHIA6_X3872_From_B_8TeV_cff.py,v $'),
+        version = cms.untracked.string('$Revision: 1.1 $'),
+        name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_X3872_From_B_8TeV_cff.py,v $'),
         annotation = cms.untracked.string(' 8TeV, D6T tune')
 )
 

@@ -30,6 +30,6 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
 
 configurationMetadata = cms.untracked.PSet(
         version = cms.untracked.string('$Revision: 1.1 $'),
-        name = cms.untracked.string('$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/LQToUE_M_350_7TeV_pythia6_cff.py,v $'),
+        name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/LQToUE_M_1000_TuneZ2star_8TeV_pythia6_cff.py,v $'),
         annotation = cms.untracked.string('default documentation string for LQToUE_M_350_7TeV_pythia6_cff.py')
 )

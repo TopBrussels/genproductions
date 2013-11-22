@@ -44,7 +44,7 @@ mugenfilter = cms.EDFilter("MCSmartSingleParticleFilter",
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_600To800_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_600To800_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_cff.py,v $'),
     annotation = cms.untracked.string('PYTHIA6 QCD at 8TeV, 800>pthat>600, with INCLUSIVE muon preselection (pt(mu) > 5)')
 )
 

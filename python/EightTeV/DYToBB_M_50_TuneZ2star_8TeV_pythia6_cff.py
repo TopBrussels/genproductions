@@ -52,7 +52,7 @@ bbbargenfilter = cms.EDFilter('MCParticlePairFilter',
 ProductionFilterSequence = cms.Sequence(generator * bbbargenfilter)
 
 configurationMetadata = cms.untracked.PSet(
-	version = cms.untracked.string('\$Revision$'),
-	name = cms.untracked.string('\$Source$'),
+	version = cms.untracked.string('\$Revision: 1.3 $'),
+	name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/DYToBB_M_50_TuneZ2star_8TeV_pythia6_cff.py,v $'),
 	annotation = cms.untracked.string('Summer2012-Z2star sample with PYTHIA6: Drell-Yan Z/g* -> bb, m > 50 GeV, TuneZ2star')
 )

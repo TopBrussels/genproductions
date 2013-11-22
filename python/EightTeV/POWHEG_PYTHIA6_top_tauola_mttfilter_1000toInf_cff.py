@@ -35,7 +35,7 @@ generator = cms.EDFilter(
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/POWHEG_PYTHIA6_top_tauola_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/POWHEG_PYTHIA6_top_tauola_mttfilter_1000toInf_cff.py,v $'),
     annotation = cms.untracked.string('POWHEG + PYTHIA6 Tune Z2star + Tauola at 7TeV')
     )
 

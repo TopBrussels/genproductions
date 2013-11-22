@@ -17,6 +17,6 @@ generator = cms.EDProducer('FlatRandomPtGunProducer',
 
 configurationMetadata = cms.untracked.PSet(
 	version = cms.untracked.string('\$Revision: 1.1 $'),
-        name = cms.untracked.string('\$Source: /cvs_server/repositories/CMSSW/CMSSW/Configuration/GenProduction/python/Attic/Neutrino_Pt2to20_gun_cff.py,v $'),
+        name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/Neutrino_Pt2to20_gun_cff.py,v $'),
 	annotation = cms.untracked.string('Summer 12: Flat Random Pt Gun: neutrino, 2<Pt<20, -3<Eta<3')
 )

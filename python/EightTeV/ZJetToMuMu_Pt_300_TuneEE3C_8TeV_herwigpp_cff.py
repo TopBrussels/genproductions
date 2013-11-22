@@ -30,7 +30,7 @@ generator = cms.EDFilter("ThePEGGeneratorFilter",
 )
 
 configurationMetadata = cms.untracked.PSet(
-	version = cms.untracked.string('\$Revision$'),
-	name = cms.untracked.string('\$Source$'),
+	version = cms.untracked.string('\$Revision: 1.1 $'),
+	name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/ZJetToMuMu_Pt_300_TuneEE3C_8TeV_herwigpp_cff.py,v $'),
 	annotation = cms.untracked.string('Sumer2012 sample with HERWIGPP: Z + Jet production, Z -> mumu, pThat > 300 GeV, TuneEE3C')
 )

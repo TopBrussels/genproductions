@@ -75,7 +75,7 @@ generator = cms.EDFilter(
 
 
 configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('\$Revision: 1.3 $'),
-    name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/HERWIGPP_POWHEG_H125_bbbar_W_lnu_8TeV_cff.py,v $'),
+    version = cms.untracked.string('\$Revision: 1.1 $'),
+    name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/HERWIGPP_POWHEG_GluonFusion_H125_bbbar_8TeV_cff.py,v $'),
 	annotation = cms.untracked.string('HERWIGPP/POWHEG: (H->bb)(W->lnu), m(H)=125 GeV, l=e or mu or tau')
 )

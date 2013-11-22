@@ -35,7 +35,7 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_15To30_bEnriched_TuneZ2star_8TeV_pythia6_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_15To30_bEnriched_MuEnrichedPt14_TuneZ2star_8TeV_pythia6_cff.py,v $'),
     annotation = cms.untracked.string('b-enriched QCD Pt [15,30] at 8 TeV')
 )
 

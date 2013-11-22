@@ -56,10 +56,10 @@ generator = cms.EDFilter(
 
 
 configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('$Revision: 1.1 $'),
+    version = cms.untracked.string('$Revision: 1.2 $'),
     annotation = cms.untracked.string('Ds -> Phi Pi at 8 TeV'),
     name = cms.untracked.string
-    ('$Source: /afs/cern.ch/project/cvs/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Ds2PhiPi_TuneZ2star_8TeV_cff.py,v $')
+    ('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Ds2PhiPi_TuneZ2star_8TeV_cff.py,v $')
     )
 
 

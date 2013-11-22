@@ -58,7 +58,7 @@ decayfilter = cms.EDFilter(
         )
 
 configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('$Revision: 1.1 $'),
+    version = cms.untracked.string('$Revision: 1.2 $'),
     name = cms.untracked.string
     ('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Bu2MuMuK_TuneZ2star_8TeV_cff.py,v $'),
     annotation = cms.untracked.string('B+ -> mu+ mu- K+ at 8TeV')

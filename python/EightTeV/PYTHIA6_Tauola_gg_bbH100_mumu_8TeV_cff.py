@@ -141,7 +141,7 @@ ProductionFilterSequence = cms.Sequence(generator)
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Tauola_gg_bbH110_mumu_8TeV_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Tauola_gg_bbH100_mumu_8TeV_cff.py,v $'),
     annotation = cms.untracked.string('PYTHIA6 - SUSY gg->bbH(110)->2mu, with Tauola at 8TeV')
     )
 

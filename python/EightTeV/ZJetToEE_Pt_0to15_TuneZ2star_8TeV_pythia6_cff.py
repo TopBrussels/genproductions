@@ -40,7 +40,7 @@ generator = cms.EDFilter('Pythia6GeneratorFilter',
 )
 
 configurationMetadata = cms.untracked.PSet(
-	version = cms.untracked.string('\$Revision$'),
-	name = cms.untracked.string('\$Source$'),
+	version = cms.untracked.string('\$Revision: 1.3 $'),
+	name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/ZJetToEE_Pt_0to15_TuneZ2star_8TeV_pythia6_cff.py,v $'),
 	annotation = cms.untracked.string('Summer2012-Z2star sample with PYTHIA6: Z + Jet production, Z -> ee, pThat = 0 .. 15 GeV, TuneZ2star')
 )

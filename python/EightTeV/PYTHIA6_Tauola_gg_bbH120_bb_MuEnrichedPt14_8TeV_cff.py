@@ -154,7 +154,7 @@ ProductionFilterSequence = cms.Sequence(generator * mugenfilter)
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/SevenTeV/PYTHIA6_Tauola_gg_bbH120_bb_MuEnrichedPt14_8TeV_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Tauola_gg_bbH120_bb_MuEnrichedPt14_8TeV_cff.py,v $'),
     annotation = cms.untracked.string('PYTHIA6 - SUSY gg->bbH(120)->bb MuEnriched w/ pT>=14. |eta|<=2.5, with Tauola at 8TeV')
     )
 

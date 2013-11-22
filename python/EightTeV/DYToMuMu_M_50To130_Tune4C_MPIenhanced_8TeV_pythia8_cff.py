@@ -34,6 +34,6 @@ generator = cms.EDFilter("Pythia8GeneratorFilter",
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /cvs_server/repositories/CMSSW/CMSSW/Configuration/GenProduction/python/Attic/DYToMuMu_M_50To130_Tune4C_MPIenhanced_7TeV_pythia8_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/DYToMuMu_M_50To130_Tune4C_MPIenhanced_8TeV_pythia8_cff.py,v $'),
     annotation = cms.untracked.string('PYTHIA8 Z/gamma* to mumu, 50 < M(mu+mu-) < 130 GeV at sqrt(s) = 8TeV, Tune 4C MPI enhanced')
 )

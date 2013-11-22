@@ -19,7 +19,7 @@ generator = cms.EDFilter(
                                                       # that you want decayed by EvtGen
              use_default_decay = cms.untracked.bool(False),
              decay_table = cms.FileInPath('GeneratorInterface/ExternalDecays/data/DECAY_NOLONGLIFE.DEC'),
-             particle_property_file = cms.FileInPath('GeneratorInterface/ExternalDecays/data/evt-51.pdl'),
+             particle_property_file = cms.FileInPath('GeneratorInterface/ExternalDecays/data/evt.pdl'),
              user_decay_file = cms.FileInPath('GeneratorInterface/ExternalDecays/data/Bs_mumu.dec'),
              list_forced_decays = cms.vstring('MyB_s0',
                                               'Myanti-B_s0'),
@@ -31,8 +31,8 @@ generator = cms.EDFilter(
     PythiaParameters = cms.PSet(
     pythiaUESettingsBlock,
          bbbarSettings = cms.vstring(
-		 'MSEL = 1         ! User defined processes'),
-#		 'PMAS(C531,1)=5.1 ! changed mass of Bs'), 
+		 'MSEL = 1         ! User defined processes',
+		 'PMAS(C531,1)=5.1 ! changed mass of Bs'), 
         # This is a vector of ParameterSet names to be read, in this order
         parameterSets = cms.vstring(
              'pythiaUESettings',
@@ -50,7 +50,7 @@ bfilter = cms.EDFilter(
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
     name = cms.untracked.string
-    ('$Source: /local/projects/CMSSW/rep/CMSSW/Configuration/GenProduction/python/PYTHIA6_Bs2MuMu_M51_TuneZ2star_8TeV_cff.py,v $'),
+    ('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Bs2MuMu_M51_TuneZ2star_8TeV_cff.py,v $'),
     annotation = cms.untracked.string('Bs -> mu mu at 8TeV')
     )
 

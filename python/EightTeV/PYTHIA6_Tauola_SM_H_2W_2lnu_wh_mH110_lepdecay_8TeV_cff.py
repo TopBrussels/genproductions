@@ -83,7 +83,7 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Tauola_SM_H_2W_2lnu_wh_mH110_8TeV_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Tauola_SM_H_2W_2lnu_wh_mH110_lepdecay_8TeV_cff.py,v $'),
     annotation = cms.untracked.string('PYTHIA6 WH, H->WW->lnulnu mH=110 with TAUOLA at 7TeV')
 )
 

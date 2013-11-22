@@ -52,8 +52,8 @@ Filter2 = cms.EDFilter("CandViewCountFilter",
 )
 
 configurationMetadata = cms.untracked.PSet(
-	version = cms.untracked.string('\$Revision: 1.3 $'),
-	name = cms.untracked.string('\$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_FwdBckwJets_Pt_15toInf_TuneZ2star_8TeV_pythia6_cff.py,v $'),
+	version = cms.untracked.string('\$Revision: 1.1 $'),
+	name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_FwdBckwJets_Pt_15toInf_TuneZ2star_8TeV_pythia6_cff.py,v $'),
 	annotation = cms.untracked.string('Summer2012-Z2star sample with PYTHIA6: QCD dijet production with forward-backward jets preselection, pThat = 15 .. Inf GeV, TuneZ2star')
 )
 

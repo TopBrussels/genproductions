@@ -50,8 +50,8 @@ emenrichingfilter = cms.EDFilter("EMEnrichingFilter",
 
 # enter below the configuration metadata (only a description is needed, the rest is filled in by cvs)
 configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /cvs_server/repositories/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_250_350_EMEnriched_TuneZ2star_8TeV_pythia6_cff.py,v $'),
+    version = cms.untracked.string('$Revision: 1.2 $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_250_350_EMEnriched_TuneZ2star_8TeV_pythia6_cff.py,v $'),
     annotation = cms.untracked.string('em-enriching filtered QCD pthat 80-170, 8 TeV')
 )
 

@@ -27,7 +27,7 @@ generator = cms.EDFilter("Pythia8GeneratorFilter",
 )
 
 configurationMetadata = cms.untracked.PSet(
-   version = cms.untracked.string('\$Revision: 1.0 $'),
-   name = cms.untracked.string('\$Source: /cvs_server/repositories/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/ADD_Dilepton_LambdaT_4000_8TeV_pythia8_cff.py,v $'),
+   version = cms.untracked.string('\$Revision: 1.1 $'),
+   name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/ADD_Dilepton_LambdaT_4000_8TeV_pythia8_cff.py,v $'),
    annotation = cms.untracked.string('2012 sample with PYTHIA8 at 8 TeV: ADD Dilepton samples with LambdaT = 4000 GeV, Tune4C, pdf: MSTW 2008 LO')
 )

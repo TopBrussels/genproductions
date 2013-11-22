@@ -55,8 +55,8 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
 )
 
 configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('$Revision: 1.2 $'),
-    name = cms.untracked.string('$Source: /cvs_server/repositories/CMSSW/CMSSW/Configuration/GenProduction/python/Attic/PYTHIA6_Tauola_SM_H_2W_wh_zh_tth_mH200_8TeV_cff.py,v $'),
+    version = cms.untracked.string('$Revision: 1.1 $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Tauola_SM_H_2W_wh_zh_tth_mH200_8TeV_cff.py,v $'),
     annotation = cms.untracked.string('PYTHIA6 WH/ZH/ttH, H->WW mH=200GeV with TAUOLA at 8TeV')
 )
 

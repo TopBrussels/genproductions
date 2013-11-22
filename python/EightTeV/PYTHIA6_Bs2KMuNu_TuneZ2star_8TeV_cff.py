@@ -59,7 +59,7 @@ decayfilter = cms.EDFilter(
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
     name = cms.untracked.string
-    ('$Source: /local/projects/CMSSW/rep/CMSSW/Configuration/GenProduction/python/PYTHIA6_Bs2KMuNu_TuneZ2_7TeV_cff.py,v $'),
+    ('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Bs2KMuNu_TuneZ2star_8TeV_cff.py,v $'),
     annotation = cms.untracked.string('Bs -> K- mu+ nu at 7TeV')
     )
 

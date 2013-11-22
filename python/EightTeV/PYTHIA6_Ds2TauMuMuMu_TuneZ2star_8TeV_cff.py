@@ -101,7 +101,7 @@ twoMuonFilter = cms.EDFilter("CandViewCountFilter",
 
 # Production Info
 configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('$Revision: 1.1 $'),
+    version = cms.untracked.string('$Revision: 1.3 $'),
     annotation = cms.untracked.string('PYTHIA6_Ds2TauMuMuMu_TuneZ2star_8TeV_cff.py nevts:1'),
     name = cms.untracked.string('PyReleaseValidation')
 )

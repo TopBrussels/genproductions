@@ -30,6 +30,6 @@ generator = cms.EDFilter(
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('\$Revision: 1.1 $'),
-    name = cms.untracked.string('\$Source: /afs/cern.ch/project/cvs/reps/CMSSW/CMSSW/Configuration/GenProduction/python/SevenTeV/ZJetsToLL_ptZ100toInf_8TeV_herwigpp_cff.py,v $'),
+    name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/ZJetsToLL_ptZ100toInf_8TeV_herwigpp_cff.py,v $'),
     annotation = cms.untracked.string('HERWIGPP: Z->ll+Jets, pT(Z)>100.GeV, l=e or mu or tau.')
 )

@@ -46,9 +46,9 @@ bfilter = cms.EDFilter(
         )
 
 configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('$Revision: 1.1 $'),
+    version = cms.untracked.string('$Revision: 1.2 $'),
     name = cms.untracked.string
-    ('$Source: /local/projects/CMSSW/rep/CMSSW/Configuration/GenProduction/python/PYTHIA6_Bs2MuMu_TuneZ2star_8TeV_cff.py,v $'),
+    ('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Bs2MuMu_TuneZ2star_8TeV_cff.py,v $'),
     annotation = cms.untracked.string('Bs -> mu mu at 8TeV')
     )
 

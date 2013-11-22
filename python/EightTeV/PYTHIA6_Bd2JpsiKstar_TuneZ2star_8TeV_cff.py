@@ -73,7 +73,7 @@ phifilter = cms.EDFilter(
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
     name = cms.untracked.string
-    ('$Source: /local/projects/CMSSW/rep/CMSSW/Configuration/GenProduction/python/PYTHIA6_Bd2JpsiKstar_TuneZ2star_8TeV_cff.py,v $'),
+    ('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_Bd2JpsiKstar_TuneZ2star_8TeV_cff.py,v $'),
     annotation = cms.untracked.string('Bd -> Jpsi Kstar at 8TeV')
     )
 

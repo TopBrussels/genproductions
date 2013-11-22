@@ -32,7 +32,7 @@ generator = cms.EDFilter("ThePEGGeneratorFilter",
 
 configurationMetadata = cms.untracked.PSet(
   version = cms.untracked.string('\$Revision: 1.1 $'),
-  name = cms.untracked.string('\$Source: /afs/cern.ch/project/cvs/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_15to3000_TuneEE3C_Flat_8TeV_herwigpp_cff.py,v $'),
+  name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/MinBias_TuneEE3C_8TeV_herwigpp_cff.py,v $'),
   annotation = cms.untracked.string('Sumer2012 sample with HERWIGPP: MinBias, TuneEE3C')
 )
 

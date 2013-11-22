@@ -1,8 +1,8 @@
 import FWCore.ParameterSet.Config as cms
 
 configurationMetadata = cms.untracked.PSet(
-        version = cms.untracked.string('$Revision: 1.3 $'),
-        name = cms.untracked.string('$Source: /afs/cern.ch/project/cvs/reps/CMSSW/CMSSW/Configuration/GenProduction/python/Attic/Hadronizer_GluGluHtoWWTo2L2Nu_mcatnlo_herwig6_cff.py,v $'),
+        version = cms.untracked.string('$Revision: 1.1 $'),
+        name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/Hadronizer_WWTo2L2Nu_mcatnlo_herwig6_8TeV_cff.py,v $'),
         annotation = cms.untracked.string('Fall10: Showering of MC@NLO 3.4 Higgs(120 GeV) events with Herwig+Jimmy, 8 TeV')
 )
 

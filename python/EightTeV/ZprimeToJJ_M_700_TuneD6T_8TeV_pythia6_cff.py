@@ -48,6 +48,6 @@ ProductionFilterSequence = cms.Sequence(generator)
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1. %'),
     annotation = cms.untracked.string('default documentation string for ZprimeDijet_700_8TeV_TuneD6T_cff.py'),
-    name = cms.untracked.string('$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/Attic/ZprimeToJJ_M_700_TuneD6T_8TeV_pythia6_cff.py,v $')
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/ZprimeToJJ_M_700_TuneD6T_8TeV_pythia6_cff.py,v $')
 )
 

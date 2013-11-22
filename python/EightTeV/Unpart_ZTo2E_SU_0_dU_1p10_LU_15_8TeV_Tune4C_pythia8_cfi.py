@@ -34,8 +34,8 @@ generator = cms.EDFilter("Pythia8GeneratorFilter",
                          )
 #ProductionFilterSequence = cms.Sequence(generator)
 configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('$Revision: 0.1 $'),
-    name = cms.untracked.string('$Source: Unpart_ZTo2E_SU_0_dU_1p10_LU_15_8TeV_Tune4C_pythia8_cfi.py,v $'),
+    version = cms.untracked.string('$Revision: 1.1 $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/Unpart_ZTo2E_SU_0_dU_1p10_LU_15_8TeV_Tune4C_pythia8_cfi.py,v $'),
     annotation = cms.untracked.string('PYTHIA8 Unpart Z/gamma* to 2E')
 )
 

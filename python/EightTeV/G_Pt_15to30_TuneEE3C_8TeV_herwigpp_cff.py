@@ -32,7 +32,7 @@ generator = cms.EDFilter("ThePEGGeneratorFilter",
 )
 
 configurationMetadata = cms.untracked.PSet(
-	version = cms.untracked.string('\$Revision$'),
-	name = cms.untracked.string('\$Source$'),
+	version = cms.untracked.string('\$Revision: 1.1 $'),
+	name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/G_Pt_15to30_TuneEE3C_8TeV_herwigpp_cff.py,v $'),
 	annotation = cms.untracked.string('Sumer2012 sample with HERWIGPP: Prompt photon production, pThat = 15 .. 30 GeV, TuneEE3C')
 )

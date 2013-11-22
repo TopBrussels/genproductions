@@ -35,7 +35,7 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
 ProductionFilterSequence = cms.Sequence(generator)
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/QstarToGJ_M_3000_8TeV_pythia6_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QstarToGJ_M_3000_8TeV_pythia6_cff.py,v $'),
     annotation = cms.untracked.string('qstar Mass = 3 TeV at 8 TeV')
 )
 

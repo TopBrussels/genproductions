@@ -23,7 +23,7 @@ generator = cms.EDFilter("Pythia8GeneratorFilter",
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /afs/cern.ch/project/cvs/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/MinBias_Tune4C_8TeV_pythia8_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/MinBias_Tune4C_8TeV_pythia8_cff.py,v $'),
     annotation = cms.untracked.string('PYTHIA8-MinBias Tune 4C at 8TeV')
 )
 

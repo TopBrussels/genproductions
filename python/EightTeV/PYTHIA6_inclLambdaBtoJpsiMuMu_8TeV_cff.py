@@ -1,7 +1,7 @@
 import FWCore.ParameterSet.Config as cms
 
 configurationMetadata = cms.untracked.PSet(
-        version = cms.untracked.string('$Revision: 1.1 $'),
+        version = cms.untracked.string('$Revision: 1.2 $'),
         name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_inclLambdaBtoJpsiMuMu_8TeV_cff.py,v $'),
         annotation = cms.untracked.string('Summer12: Pythia6+EvtGen generation of Lambda_B->Jpsi->MuMu, 8TeV, Z2star tune')
 )

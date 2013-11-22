@@ -28,8 +28,8 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
 )
 
 configurationMetadata = cms.untracked.PSet(
-        version = cms.untracked.string('$Revision: 1.3 $'),
-        name = cms.untracked.string('$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/PYTHIA6_Exotica_LQ_cmu_250_7TeV_mumujj_cff.py,v $')
+        version = cms.untracked.string('$Revision: 1.1 $'),
+        name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/LQToCMu_M_1200_TuneZ2star_8TeV_pythia6_cff.py,v $')
 ,
         annotation = cms.untracked.string('default documentation string for PYTHIA6_Exotica_LQ_cmu_250_7TeV_mumujj_cff.py')
 )

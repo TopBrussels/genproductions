@@ -32,7 +32,7 @@ generator = cms.EDFilter(
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/LQToTTau_M_150_TuneZ2star_8TeV_pythia6_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/LQToTTau_M_150_TuneZ2star_8TeV_pythia6_cff.py,v $'),
     annotation = cms.untracked.string('default documentation string for LQToTTau_M_150_TuneZ2star_8TeV_pythia6_cff.py')
     )
 

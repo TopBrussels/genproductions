@@ -61,6 +61,6 @@ ProductionFilterSequence = cms.Sequence(generator*genParticles*genParticlesForJe
 
 configurationMetadata = cms.untracked.PSet(
 	version = cms.untracked.string('\$Revision: 1.1 $'),
-	name = cms.untracked.string('\$Source: /cvs/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_FwdBckwJets_Pt_15toInf_TuneEE3C_Flat_8TeV_herwigpp_cff.py,v $'),
+	name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_FwdBckwJets_Pt_15toInf_TuneEE3C_8TeV_herwigpp_cff.py,v $'),
 	annotation = cms.untracked.string('Sumer2012 sample with HERWIGPP: QCD Fwd-Backw dijet production, pThat = 15 .. Inf GeV, TuneEE3C')
 )

@@ -26,7 +26,7 @@ generator = cms.EDFilter("Pythia8GeneratorFilter",
 )
 
 configurationMetadata = cms.untracked.PSet(
-	version = cms.untracked.string('\$Revision$'),
-	name = cms.untracked.string('\$Source$'),
+	version = cms.untracked.string('\$Revision: 1.1 $'),
+	name = cms.untracked.string('\$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_15to3000_Tune4C_Flat_8TeV_pythia8_cff.py,v $'),
 	annotation = cms.untracked.string('Summer2012 sample with PYTHIA8: QCD dijet production, pThat = 15 .. 3000 GeV, weighted, Tune4C')
 )

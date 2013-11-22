@@ -28,7 +28,7 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
 
 configurationMetadata = cms.untracked.PSet(
     version = cms.untracked.string('$Revision: 1.1 $'),
-    name = cms.untracked.string('$Source: PYTHIA6_SUSY_sqgo_7TeV_cff.py,v $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/PYTHIA6_SUSY_sqgo_8TeV_mH1_55_mH2_125p3_MSUSY_1000_cff.py,v $'),
     annotation = cms.untracked.string('PYTHIA6_SUSY_sqgo at 7TeV')
 )
 

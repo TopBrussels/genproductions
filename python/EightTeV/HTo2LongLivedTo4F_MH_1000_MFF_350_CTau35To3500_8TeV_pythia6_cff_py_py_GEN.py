@@ -34,7 +34,7 @@ process.options = cms.untracked.PSet(
 
 # Production Info
 process.configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('$Revision: 1.352 $'),
+    version = cms.untracked.string('$Revision: 1.1 $'),
     annotation = cms.untracked.string('Configuration/GenProduction/python/EightTeV/HTo2LongLivedTo4F_MH_1000_MFF_350_CTau35To3500_8TeV_pythia6_cff.py.py nevts:1000'),
     name = cms.untracked.string('PyReleaseValidation')
 )

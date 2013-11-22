@@ -33,8 +33,8 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
 )
 
 configurationMetadata = cms.untracked.PSet(
-    version = cms.untracked.string('$Revision: 1.2 $'),
-    name = cms.untracked.string('$Source: /afs/cern.ch/project/cvs/reps/CMSSW/CMSSW/Configuration/GenProduction/python/Attic/QCD_Pt_150_bEnriched_TuneZ2star_8TeV_pythia6_evtgen_cff.py,v $'),
+    version = cms.untracked.string('$Revision: 1.1 $'),
+    name = cms.untracked.string('$Source: /local/reps/CMSSW/CMSSW/Configuration/GenProduction/python/EightTeV/QCD_Pt_150_bEnriched_TuneZ2star_8TeV_pythia6_cff.py,v $'),
     annotation = cms.untracked.string('b-enriched QCD Pt [150,Inf] at 8 TeV')
 )
 
